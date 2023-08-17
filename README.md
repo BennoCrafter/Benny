@@ -1,0 +1,2 @@
+# Benny
+A discord bot
